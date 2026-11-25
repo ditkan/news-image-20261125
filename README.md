@@ -1,5 +1,9 @@
 # The Horizon Post — Wednesday, 25 November 2026
 
+[![Competition](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![Rank](https://make.fun/badge/news-image-20261125/ditkan/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
+[![Reward](https://make.fun/badge/news-image-20261125/ditkan/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+
 Entry for the make.fun competition **news-image-20261125** — *"Sum up 25
 November's world news in one image"* (account @amber-orca-86).
 
